@@ -25,7 +25,7 @@
 ## Build Guide
 
 ```bash
-git clone https://github.com/baeharam/Pathfinding-Visualizer
+git clone https://github.com/Hemant-1451/Pathfinding-Visualizer
 cd Pathfinding-Visualizer
 yarn install
 yarn start
